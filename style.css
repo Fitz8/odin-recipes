@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    color: lightcoral;
+    margin-bottom: 50px;
+    font-style: bold;
+}
+
+li {
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    float: right;
+}
+
+p {
+    font-family: 'Calibri', sans-serif;
+}
